@@ -1,0 +1,20 @@
+input[type=text],
+[type=password] , 
+[type=email] 
+{
+    width: 250px;
+    height: 30px;
+    border-radius: 20px;
+    margin: 5px;
+    margin-left: 1px;
+    margin-right: 1px;
+}
+
+input[type=button] {
+    width: 250px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: aliceblue;
+    margin: 5px;
+
+}
